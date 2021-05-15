@@ -3476,7 +3476,7 @@ Back To Top Section
  */
 /* 4.1 - TOPBAR */
 .topbar {
-  background-color: #ff0080;
+  background-color: #000000;
   color: #ffffff;
   height: 40px;
   padding-top: 6px; }
@@ -3507,7 +3507,7 @@ Back To Top Section
     padding: 5px 15px 0 15px;
     font-size: 18px; }
     .sosmed-icon a:hover {
-      background-color: #000000; }
+      background-color: #ff0080; }
 
 .middlebar {
   padding: 0 0;
